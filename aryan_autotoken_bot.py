@@ -52,13 +52,13 @@ _OWNER_ID = int("".join(chr(x) for x in _s))   # 7949539794
 # ══════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════
-BOT_TOKEN      = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN      = "8655983220:AAGMf6DRTyDcWG_EfiC6VowWyg8XO2AlbE0"
 OWNER_ID       = _OWNER_ID               # @Aryan_babu99 — 7949539794
 ADMIN_ID       = 8897775081              # admin chat id
 OWNER_USERNAME = "@Aryan_babu99"
 
-CHANNEL_ID     = -1002256465587          # channel users must join
-CHANNEL_LINK   = "https://t.me/YourChannel"
+CHANNEL_ID     = -1003223668976          # channel users must join
+CHANNEL_LINK   = "https://t.me/CIPHER889988"
 FB_LOG_CHANNEL = -1004379319158          # all firebase URLs forwarded here
 
 BOT_VERSION    = "5.0.0"
